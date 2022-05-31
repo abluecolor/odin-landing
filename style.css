@@ -62,7 +62,7 @@ button {
     margin-top: 10px;
 }
 
-img {
+#cat {
     width: 350px;
 }
 
@@ -74,9 +74,28 @@ img {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-bottom: 80px;
 }
 
 .info {
     display: flex;
     flex-direction: row;
+    gap: 40px;
+
+}
+
+img {
+    width: 180px;
+}
+
+.info-text {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+    padding: 40px;
+}
+
+.card {
+    width: 170px;
+    text-align: center;
 }
