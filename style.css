@@ -1,3 +1,42 @@
 .section-1 {
     background-color: #1f2937;
+    padding: ;
+    display: ;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.description {
+    font-size: 18px;
+    color: #e5e7eb
+}
+
+.hero-text {
+    font-size: 48px;
+    font-weight: 800;
+    color: #f9faf8;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+button {
+    background-color: #3882f6;
+    color: #f9faf8;
 }
