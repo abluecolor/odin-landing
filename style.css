@@ -1,7 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
 .section-1 {
     background-color: #1f2937;
-    padding: ;
-    display: ;
+    margin: 0;
 }
 
 .header {
