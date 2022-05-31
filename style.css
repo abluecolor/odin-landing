@@ -117,3 +117,15 @@ img {
     text-align: right;
     font-weight: bold;
 }
+
+.section-4 {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.box {
+    background-color: #3882f6;
+    padding: 30px 150px 30px 150px;
+    
+}
