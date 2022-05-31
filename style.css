@@ -126,6 +126,17 @@ img {
 }
 .box {
     background-color: #3882f6;
-    padding: 30px 150px 30px 150px;
-    
+    padding: 30px 100px 30px 100px;
+    height: 100px;
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
+
+.call {
+    font-size: 18px;
+    color: #f9faf8;
+    font-weight: 700;
+}
+
